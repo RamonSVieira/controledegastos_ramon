@@ -18,11 +18,10 @@
         <tbody>
             <tr>
                 <td>23-03-1992</td>
-                <td>Comi o cu de DANIEL</td>
+                <td>Compras</td>
                 <td>R$300</td>   
             </tr>
         </tbody>
-
     </table>
 </body>
 </html>
